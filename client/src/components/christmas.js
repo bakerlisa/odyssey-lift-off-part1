@@ -9,6 +9,8 @@ const Christmas = () => {
                 <li>Christmas Cookies</li>
                 <li>Coraling</li>
                 <li>Sleding</li>
+                <li>snow</li>
+                <li>christmas movies</li>
             </ul>
         </div>
     )
