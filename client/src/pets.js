@@ -7,13 +7,5 @@
 </head>
 <body>
     <h1>Tops pets for the holidays</h1>
-    <ul>
-        <li>dogs</li>
-        <li>cats</li>
-        <li>rat</li>
-        <li>bird</li>
-        <li>fish</li>
-    </ul>
-    
 </body>
 </html>
