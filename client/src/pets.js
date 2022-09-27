@@ -6,6 +6,6 @@
     <title>Pests</title>
 </head>
 <body>
-    <h1>Tops pets for the holidays</h1>
+    <h1>Tops pet</h1>
 </body>
 </html>
